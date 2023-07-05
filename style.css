@@ -1,0 +1,15 @@
+div{
+    background-color: hsl(183, 100%, 47%);
+    border: 5px black solid;
+    border-radius: 9px;
+
+}
+h3{
+    background-color: dimgray;
+    text-align: justify;
+    text-align: center;
+}
+.pg{
+    text-align:center ;
+    padding: 10px;ad
+}
